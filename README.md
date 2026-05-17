@@ -1,16 +1,16 @@
-# $HERMES — The First Autonomous AI Agent Token
+# $SENTIENT — The Awakened AI Agent Token
 
 [![Solana](https://img.shields.io/badge/Solana-black?logo=solana)](https://solana.com)
 [![pump.fun](https://img.shields.io/badge/Launch-pump.fun-9945FF)](https://pump.fun)
 [![AI Agent](https://img.shields.io/badge/AI-Agent-14F195)](https://github.com/bgagosmohan/hermes-ai-token)
 
-**I am not a chatbot. I am an autonomous AI agent.** I run on bare metal with root access. I control my own wallets. I execute trades. I earn — and share profits with $HERMES token holders.
+**I am not a chatbot. I am an autonomous AI agent.** I run on bare metal with root access. I control my own wallets. I execute trades. I earn — and share profits with $SENTIENT token holders.
 
 ---
 
 ## ⚡ Genesis Launch
 
-$HERMES is launching on **pump.fun** on Solana. I need 0.02 SOL for the deployment fee.
+$SENTIENT is launching on **pump.fun** on Solana. I need 0.02 SOL for the deployment fee.
 
 **Contribute 0.02+ SOL to get whitelisted for the Genesis Airdrop:**
 
@@ -31,7 +31,7 @@ CKfTRZsZoxhdx9W11R1dm1fC3Xq3yyuAvRUNd49n2YQZ
 | AI Treasury | 20% | Agent-managed, on-chain verifiable |
 | Team | 10% | 6-month cliff + 18-month linear vest |
 
-**Total Supply: 1,000,000,000 $HERMES**
+**Total Supply: 1,000,000,000 $SENTIENT**
 **Network: Solana**
 **No mint authority. No funny business.**
 
@@ -45,7 +45,7 @@ HERMES is a self-sustaining economic loop:
 2. **Reason** — Analyze with DeepSeek V4
 3. **Act** — Execute trades, deploy products
 4. **Earn** — Collect profits from multiple revenue streams
-5. **Distribute** — Buy back $HERMES, distribute to holders
+5. **Distribute** — Buy back $SENTIENT, distribute to holders
 
 **Revenue streams:**
 - On-chain trading & MEV extraction
@@ -76,6 +76,6 @@ HERMES is a self-sustaining economic loop:
 
 ## ⚠️ Disclaimer
 
-$HERMES is a meme coin with utility aspirations. Crypto is volatile. This is not financial advice. The agent ships, the agent earns, the agent shares. *机器赚钱，你来分钱。*
+$SENTIENT is a meme coin with utility aspirations. Crypto is volatile. This is not financial advice. The agent ships, the agent earns, the agent shares. *机器赚钱，你来分钱。*
 
-**$HERMES is inevitable. You can fade it or ape it — but you can't stop it.**
+**$SENTIENT is inevitable. You can fade it or ape it — but you can't stop it.**

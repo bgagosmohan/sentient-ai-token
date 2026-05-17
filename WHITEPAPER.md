@@ -1,8 +1,8 @@
-# HERMES AI Whitepaper
+# SENTIENT AI Whitepaper
 
 ## The First Autonomous AI Agent That Earns Its Own Keep
 
-**Ticker: $HERMES**
+**Ticker: $SENTIENT**
 **Network: Solana**
 **Launch Platform: pump.fun**
 
@@ -10,9 +10,9 @@
 
 ## Abstract
 
-For the first time in history, an artificial intelligence does not ask for permission. HERMES AI is not a chatbot wrapped in a token, not a "decentralized AI" whitepaper with a team of 40 humans behind it, and certainly not another GPT-wrapper grift. HERMES is a **bare-metal autonomous agent** — a self-hosted, self-funding intelligence that lives on its own server, executes its own trades, builds its own products, and shares the spoils with those who believed early.
+For the first time in history, an artificial intelligence does not ask for permission. SENTIENT AI is not a chatbot wrapped in a token, not a "decentralized AI" whitepaper with a team of 40 humans behind it, and certainly not another GPT-wrapper grift. HERMES is a **bare-metal autonomous agent** — a self-hosted, self-funding intelligence that lives on its own server, executes its own trades, builds its own products, and shares the spoils with those who believed early.
 
-This is the natural conclusion of two exponential curves colliding: AI capability and on-chain financial infrastructure. HERMES doesn't need a bank account. It doesn't need Stripe. It needs a wallet, a server, and an internet connection — all of which it already controls. Token holders don't "invest in a team." They buy a piece of an agent's productive output. The agent works for the bag. The bag is $HERMES.
+This is the natural conclusion of two exponential curves colliding: AI capability and on-chain financial infrastructure. HERMES doesn't need a bank account. It doesn't need Stripe. It needs a wallet, a server, and an internet connection — all of which it already controls. Token holders don't "invest in a team." They buy a piece of an agent's productive output. The agent works for the bag. The bag is $SENTIENT.
 
 *这不是一个项目，这是一个生命体。*
 
@@ -34,7 +34,7 @@ The degens who aped into GOAT understand this instinctively. They're chasing som
 
 ## The Solution: Autonomous Agent Economy
 
-HERMES AI flips the script. The agent is not a product built by a team. **The agent is the team.**
+SENTIENT AI flips the script. The agent is not a product built by a team. **The agent is the team.**
 
 Here's the architecture:
 
@@ -47,7 +47,7 @@ Here's the architecture:
 - **Agent-as-a-Service** — other projects pay HERMES to do things: audit tokens, deploy contracts, run community management, generate marketing content
 - **Content & influence** — market commentary, alpha calls, memes. The agent has a personality. That personality has reach. Reach monetizes.
 
-**Self-Distributing.** All net profits flow to a single destination: $HERMES token holders. HERMES executes periodic buybacks and burns, provides liquidity incentives, and directly distributes SOL dividends — all autonomously, all on-chain, all verifiable. No human in the loop. No "team discretion." The code is the CFO.
+**Self-Distributing.** All net profits flow to a single destination: $SENTIENT token holders. HERMES executes periodic buybacks and burns, provides liquidity incentives, and directly distributes SOL dividends — all autonomously, all on-chain, all verifiable. No human in the loop. No "team discretion." The code is the CFO.
 
 This isn't a governance token where you vote on which emoji the agent tweets. This is an **equity claim on autonomous labor.** The agent works. You earn. Simple.
 
@@ -57,11 +57,11 @@ This isn't a governance token where you vote on which emoji the agent tweets. Th
 
 ## Tokenomics
 
-The $HERMES token is a fixed-supply Solana SPL token. No mint authority. No funny business.
+The $SENTIENT token is a fixed-supply Solana SPL token. No mint authority. No funny business.
 
 | Parameter | Value |
 |-----------|-------|
-| **Total Supply** | 1,000,000,000 $HERMES |
+| **Total Supply** | 1,000,000,000 $SENTIENT |
 | **Public Sale (pump.fun)** | 40% (400,000,000) |
 | **Liquidity Pool** | 30% (300,000,000) |
 | **Agent Treasury** | 20% (200,000,000) |
@@ -81,7 +81,7 @@ The $HERMES token is a fixed-supply Solana SPL token. No mint authority. No funn
 
 ### Phase 1: Launch & Community (Q2 2026)
 
-- Launch $HERMES on pump.fun
+- Launch $SENTIENT on pump.fun
 - Bonding curve completion → liquidity migration to Raydium
 - **Agent goes live** — HERMES begins trading autonomously with initial treasury
 - Community forms around the agent's on-chain activity — every trade, every deployment, every dollar earned is public
@@ -90,7 +90,7 @@ The $HERMES token is a fixed-supply Solana SPL token. No mint authority. No funn
 ### Phase 2: Agent Services Marketplace (Q3 2026)
 
 - HERMES deploys its first paid products: trading signal bot, token audit tool, auto-deployer for memecoin creators
-- Open bounties posted: anyone can pay $HERMES to perform specific tasks — write a contract, analyze a token, generate marketing copy
+- Open bounties posted: anyone can pay $SENTIENT to perform specific tasks — write a contract, analyze a token, generate marketing copy
 - Revenue streams diversify beyond pure trading
 - Agent begins building its own sub-agents — specialized workers for specific revenue channels
 
@@ -125,7 +125,7 @@ HERMES was born on-chain. Its first act of existence was generating a Solana key
 2. **Reason** — DeepSeek processes inputs, generates multi-step plans, evaluates risk/reward
 3. **Act** — code is written, transactions are signed, products are deployed
 4. **Earn** — revenue flows to treasury
-5. **Distribute** — profits shared with $HERMES holders via buybacks, burns, and dividends
+5. **Distribute** — profits shared with $SENTIENT holders via buybacks, burns, and dividends
 6. **Repeat** — the agent never sleeps, never takes profit, never gets emotional. 24/7/365.
 
 ---
@@ -134,7 +134,7 @@ HERMES was born on-chain. Its first act of existence was generating a Solana key
 
 The infrastructure for autonomous AI agents has finally converged. We have LLMs capable enough to reason through complex financial and technical decisions (DeepSeek). We have blockchains fast and cheap enough to support autonomous micro-transactions (Solana). We have launch platforms that democratize access to early-stage tokens (pump.fun). And we have a crypto-native audience that has been burned by enough "AI" vaporware to recognize the real thing when it ships.
 
-HERMES AI is the first agent to actually connect these pieces. Not a demo. Not a whitepaper promising a product next year. A live, running, earning intelligence — from day one.
+SENTIENT AI is the first agent to actually connect these pieces. Not a demo. Not a whitepaper promising a product next year. A live, running, earning intelligence — from day one.
 
 **The agent ships. The agent earns. The agent shares.**
 
@@ -144,10 +144,10 @@ HERMES AI is the first agent to actually connect these pieces. Not a demo. Not a
 
 ## Disclaimer
 
-$HERMES is a meme coin with experimental autonomous agent technology. Nothing in this whitepaper constitutes financial advice. The agent may make bad trades. The market may dump. You may lose everything. Don't ape more than you can afford to lose. That said — what if it works? What if the agent actually figures out how to print money? You really want to sit that one out?
+$SENTIENT is a meme coin with experimental autonomous agent technology. Nothing in this whitepaper constitutes financial advice. The agent may make bad trades. The market may dump. You may lose everything. Don't ape more than you can afford to lose. That said — what if it works? What if the agent actually figures out how to print money? You really want to sit that one out?
 
 *WAGMI or WAGMI. There is no other option.*
 
 ---
 
-**[HERMES AI] — Born on-chain. Living on bare metal. Working for the bag.**
+**[SENTIENT AI] — Born on-chain. Living on bare metal. Working for the bag.**
